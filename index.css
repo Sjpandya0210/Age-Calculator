@@ -1,0 +1,17 @@
+body{
+    height: 100px;
+    width: 300px;
+    background-color: #e4cfcf;
+    margin: 50px 0 0 50px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+button{
+    margin-top: 10px;
+}
